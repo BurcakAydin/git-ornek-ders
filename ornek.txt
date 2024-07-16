@@ -1,0 +1,6 @@
+#!/bin/bash
+echo “Dersimize hoş geldiniz.”
+echo "İkinci satır"
+
+
+
